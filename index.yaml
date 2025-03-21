@@ -3,12 +3,12 @@ entries:
   ralph-nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-21T10:58:32.676979+09:00"
+    created: "2025-03-21T11:10:21.023069+09:00"
     description: A Helm chart for Kubernetes
     digest: 68cbe92ee0428a205111059aadf724d7d294e54f3447c8c21d228a9d5e2f9a26
     name: ralph-nginx
     type: application
     urls:
-    - https://ralphexp.github.io/ralph-nginx/ralph-nginx-0.1.0.tgz
+    - https://github.com/RalphExp/nginx-chart-test/ralph-nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-21T10:58:32.676251+09:00"
+generated: "2025-03-21T11:10:21.022573+09:00"
